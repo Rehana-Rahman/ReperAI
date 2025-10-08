@@ -164,7 +164,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Rehana Rahman - [LinkedIn](https://www.linkedin.com/in/rehana-rahman-4b2bb933b/)]
+Rehana Rahman - [LinkedIn](https://www.linkedin.com/in/rehana-rahman-4b2bb933b/)
 
 Project Link: [ReperAI](https://github.com/Rehana-Rahman/ReperAI)
 
