@@ -2,7 +2,7 @@
 
 > **REsearch papER AI** - An intelligent document analysis tool that uses Retrieval-Augmented Generation (RAG) to provide contextual summaries of research papers.
 
-## 🎯 Overview
+## Overview
 
 ReperAI transforms how you interact with research papers by combining semantic search with advanced language models. Instead of reading entire papers to find specific information, simply ask questions and get precise, context-aware summaries backed by relevant document sections.
 
