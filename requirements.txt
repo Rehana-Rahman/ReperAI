@@ -1,0 +1,68 @@
+# requirements.txt
+
+# Core dependencies
+streamlit==1.28.0
+openai==0.28.0
+sentence-transformers==2.2.2
+faiss-cpu==1.7.4
+PyPDF2==3.0.1
+numpy==1.24.3
+torch==2.0.1
+transformers==4.33.0
+
+# ---
+
+# .gitignore
+
+# Python stuff
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual env
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# Data files
+data/uploads/*
+!data/uploads/.gitkeep
+data/indices/*
+!data/indices/.gitkeep
+
+# Secrets
+.env
+.env.local
+*.key
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# ---
+
+# data/uploads/.gitkeep
+# Keep this directory in git
+
+# ---
+
+# data/indices/.gitkeep
+# Keep this directory in git
+
+# ---
