@@ -46,7 +46,7 @@ ReperAI/
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/reperai.git
+git clone https://github.com/Rehana-Rahman/reperai.git
 cd reperai
 ```
 
